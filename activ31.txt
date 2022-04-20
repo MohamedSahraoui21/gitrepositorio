@@ -1,1 +1,4 @@
 fichero repo6
+nuevo dato repo6
+cambio desde la rama actividad a activ31
+otro cambio desde actividad3 a activ31
